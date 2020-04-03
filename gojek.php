@@ -4,9 +4,9 @@ include "function.php";
 echo color("red"," ===NOT SAFE FOR WORK IF 02===\n");
 echo color("blue","| Claim Voucher Gojek+ Set Pin |\n");
 echo color("yellow","| Auto create Gojek X Redeem voucher |\n");
-echo color("green","| github: thedearme |\n");
+echo color("green","| github: ekreji12345@gmail.com |\n");
 echo color("red","| fanspage :gofoodseindonesia|\n");
-echo color("blue","| Creator : A.G /Info Tele @Ameteraasu          |\n");
+echo color("blue","| Creator :     ekreji12345@gmail.com      |\n");
 echo color("yellow","[] NuyuL:  ".date('[d-m-Y] [H:i:s]')."  []\n");
 echo color("red","[]        TULIS NOMER PAKAI 62         []\n");
 function change(){
